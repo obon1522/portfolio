@@ -121,6 +121,9 @@ name
 .work{
   margin-bottom: 80px;
 }
+.work a:hover{
+  opacity:0.7;
+}
 .work p{
   text-align: right;
   margin-bottom: 5px;
